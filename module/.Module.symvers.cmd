@@ -1,0 +1,1 @@
+savedcmd_/home/berke/Desktop/304Project1/comp-304-operating-systems-project-1-3b/module/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/berke/Desktop/304Project1/comp-304-operating-systems-project-1-3b/module/Module.symvers -T /home/berke/Desktop/304Project1/comp-304-operating-systems-project-1-3b/module/modules.order -i Module.symvers -e 

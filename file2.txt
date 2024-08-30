@@ -1,0 +1,4 @@
+This is the first line of text_file2.
+The second line is also different.
+This is the third line of text_file2.
+
